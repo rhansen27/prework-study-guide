@@ -22,10 +22,15 @@ else
 {
     console.log("Please try again!");
 }
-*/
+
 
 const shapes = ["triangle", "square", "pentagon", "circle"];
 for(let i = 0; i < shapes.length; i++)
 {
     console.log(shapes[i]);
+}   
+*/
+function helloWorld()
+{
+    console.log("Hello, world, I am a function!");
 }
